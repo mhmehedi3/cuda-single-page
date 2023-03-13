@@ -92,7 +92,7 @@ img{
     font-size: 13px;
 }
 .headline3{
-    width: 100%;
+    width: 1300px;
     height: 680px;
     padding-top: 70px;
      background-color:rgb(150, 183, 185);
@@ -102,7 +102,9 @@ img{
    
 }
 
-.link a{
+.link {
+    display: block;
+
     text-align: center;
 }
 
@@ -130,7 +132,7 @@ img{
 }
 .step-4{
     background-color: rgb(208, 223, 125);
-    width: 100%;
+    width: 1300px;
    padding-top: 60px;
     padding-bottom: 60px;
     font-family: 'Titillium Web', sans-serif;
@@ -156,7 +158,7 @@ img{
     border-radius: 50%;
 }
 .step-5{
-    width: 100%;
+    width: 1300px;
     height: 1100px;
     padding-top: 50px;
     background-color: rgba(233, 179, 143, 0.63);
@@ -208,7 +210,7 @@ text-align: center;
     border: 0;
 }
 .step-6{
-    width: 100%;
+    width: 1300px;
     height: 700px;
     padding-top: 60px;
     padding-bottom: 20px;
@@ -217,17 +219,17 @@ text-align: center;
 .row6{
     padding-top: 30px;
     text-align: center;
-    width: 1200px;
+    width: 1300px;
     float: left;
     padding-bottom: 50px;
 }
 .column6{
-    width:600px;
+    width:650px;
     float: left;
     text-align: center;
 }
 .one{
-    width: 300px;
+    width: 325px;
     float: left;
 }
 .one img{
@@ -237,7 +239,7 @@ text-align: center;
     font-style: italic;
 }
 .step-7{
-    width: 100%;
+    width: 1300px;
     height: 650px;
     padding-top: 60px;
     padding-bottom: 20px;
